@@ -1,0 +1,35 @@
+.card-button {
+  background-color: #fff;
+  border: solid black 1px;
+  padding: 15px 25px;
+  border-radius: 25px;
+}
+
+.card-button:hover {
+  background-color: black;
+  padding: 18px 28px;
+  border-radius: 10px;
+  color: white;
+}
+
+.card-img {
+  width: 450px;
+  border-radius: 20px;
+}
+
+.card-img:hover {
+  width: 500px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.card2 {
+  width: 501px;
+  height: 600px;
+  background-color: #fff;
+}
